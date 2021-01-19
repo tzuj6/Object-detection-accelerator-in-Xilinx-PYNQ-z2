@@ -26,26 +26,19 @@ Any Vivado HLS release from 2014.1 to 2016.1
 ```
 	
 	|   README.md
-	\---code
-			cordic_atan_11bits.h
-		        cordic_defines.h
-		    	cordic_isqrt.cpp
-		    	cordic_sqrt.cpp
-		    	float_sqrt.cpp
-			test_main.cpp
-    			top_magnitude.cpp
-	\---code-opt
-			cordic_atan_11bits.h
-		        cordic_defines.h
-		    	cordic_isqrt.cpp
-		    	cordic_sqrt.cpp
-		    	float_sqrt.cpp
-			test_main.cpp
-    			top_magnitude.cpp
-	\---impl
-			top_process_magnitude_csynth.rpt
-	\---script
-			script.tcl
+	\---Design IP
+			cnn.cpp
+			cnn.h
+	\---testbench
+			coco.names
+			main.cpp
+			stb_image.h
+			stb_image_write.h
+			yolov2.cfg
+			yolov2.h
+	\---image
+			kite.jpg (for test use)
+			result.jpg
 			
 ```
       
