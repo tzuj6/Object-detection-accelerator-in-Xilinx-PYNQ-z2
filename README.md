@@ -16,7 +16,7 @@
 
 ## OVERVIEW
 
-Implementing the math function sqrt from the Linear Algebra Library 
+Accelerate YOLOv2 in Xilinx's FPGA PYNQ-z2
 
 ## SOFTWARE TOOLS AND SYSTEM REQUIREMENTS
 
