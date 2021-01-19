@@ -5,12 +5,14 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Usage](#usage)
-* [Algorithm](#algorithm)
-* [References](#references)
-* [Contributing](#contributing)
-* [Contact](#contact)
+* [OVERVIEW](#about-the-project)
+* [SOFTWARE TOOLS AND SYSTEM REQUIREMENTS](#usage)
+* [DESIGN FILE HIERARCHY](#algorithm)
+* [Usage](#references)
+* [Algorithm](#references)
+* [Result](#references)
+* [References](#contributing)
+* [SUPPORT](#contact)
 
 
 
@@ -72,9 +74,6 @@ For VOC we predict 5 boxes with 5 coordinates (tx, ty, tw, th, to (objectness sc
 <!-- References -->
 ## References
 https://github.com/dhm2013724/yolov2_xilinx_fpga
-
-<!-- CONTRIBUTING -->
-## Contributing
 
 
 ## SUPPORT
