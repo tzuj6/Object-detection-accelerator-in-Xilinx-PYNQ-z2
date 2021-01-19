@@ -46,15 +46,10 @@ Any Vivado HLS release from 2014.1 to 2016.1
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-* **build process**
-  * For example, if you have a host program
-  ```sh
-  python FIRN11MAXI.py
-  ```
-  * If you implemented with vitis on U50
-  ```sh
-  make run
-  ```
+1. Clone the repository
+	```Shell
+	$ git clone https://github.com/tzuj6/Object-detection-accelerator-in-Xilinx-PYNQ-z2
+    $ cd Object-detection-accelerator-in-Xilinx-PYNQ-z2
 
 <!-- Algorithm -->
 ## Algorithm
