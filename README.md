@@ -72,5 +72,8 @@ Any Vivado HLS release from 2014.1 to 2016.1
 <!-- CONTRIBUTING -->
 ## Contributing
 
-<!-- CONTACT -->
-## Contact
+
+## SUPPORT
+
+For questions and to get help on this project or your own projects, visit the [Vivado HLS Forums][]. 
+
