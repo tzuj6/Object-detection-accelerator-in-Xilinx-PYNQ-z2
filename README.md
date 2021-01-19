@@ -66,6 +66,10 @@ Any Vivado HLS release from 2014.1 to 2016.1
 <!-- Algorithm -->
 ## Algorithm
 
+<!-- Result -->
+## Result
+![image1](https://github.com/tzuj6/Object-detection-accelerator-in-Xilinx-PYNQ-z2/blob/main/result.png)
+
 <!-- References -->
 ## References
 
