@@ -64,6 +64,8 @@ For detection purposes, we replace the last convolution layer of this architectu
 
 For VOC we predict 5 boxes with 5 coordinates (tx, ty, tw, th, to (objectness score)) each with 20 classes per box. So total number of filters is 125.
 
+![image1](https://github.com/tzuj6/Object-detection-accelerator-in-Xilinx-PYNQ-z2/blob/main/yolov2_net.png)
+
 <!-- Result -->
 ## Result
 ![image1](https://github.com/tzuj6/Object-detection-accelerator-in-Xilinx-PYNQ-z2/blob/main/result.png)
