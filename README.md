@@ -50,6 +50,8 @@ Any Vivado HLS release from 2014.1 to 2016.1
 	```Shell
 	$ git clone https://github.com/tzuj6/Object-detection-accelerator-in-Xilinx-PYNQ-z2
     $ cd Object-detection-accelerator-in-Xilinx-PYNQ-z2
+    
+2. You should download the darknet source from https://github.com/pjreddie/darknet and yolov2.weights from https://pjreddie.com/media/files/yolov2.weights. 
 
 <!-- Algorithm -->
 ## Algorithm
