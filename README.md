@@ -2,15 +2,6 @@
 
 
 
-<br />
-<p align="center">
-
-  <h3 align="center">MSOC-HLS project github template</h3>
-  
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
