@@ -30,7 +30,7 @@ Any Vivado HLS release from 2014.1 to 2016.1
 			cnn.cpp
 			cnn.h
 	\---testbench
-			coco.names
+			coco.names (item in coco dataset)
 			main.cpp
 			stb_image.h
 			stb_image_write.h
