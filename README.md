@@ -14,15 +14,15 @@
 
 
 
-## 1. OVERVIEW
+## OVERVIEW
 
 Implementing the math function sqrt from the Linear Algebra Library 
 
-## 2. SOFTWARE TOOLS AND SYSTEM REQUIREMENTS
+## SOFTWARE TOOLS AND SYSTEM REQUIREMENTS
 
 Any Vivado HLS release from 2014.1 to 2016.1
 
-## 3. DESIGN FILE HIERARCHY
+## DESIGN FILE HIERARCHY
 ```
 	
 	|   README.md
