@@ -58,6 +58,11 @@ Any Vivado HLS release from 2014.1 to 2016.1
 
 <!-- Algorithm -->
 ## Algorithm
+YOLO v2 is trained on different architectures such as VGG-16 and GoogleNet. The paper also proposed an architecture called Darknet-19. The reason for choosing the Darknet architecture is its lower processing requirement than other architectures 5.58 FLOPS ( as compared to 30.69 FLOPS on VGG-16 for 224 * 224 image size and 8.52 FLOPS in customized GoogleNet). The structure of Darknet-19 is given below:
+
+For detection purposes, we replace the last convolution layer of this architecture and instead add three 3 * 3 convolution layers every 1024 filters followed by 1 * 1 convolution with the number of outputs we need for detection.
+
+For VOC we predict 5 boxes with 5 coordinates (tx, ty, tw, th, to (objectness score)) each with 20 classes per box. So total number of filters is 125.
 
 <!-- Result -->
 ## Result
